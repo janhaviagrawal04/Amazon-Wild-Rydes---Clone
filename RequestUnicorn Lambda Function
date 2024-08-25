@@ -144,3 +144,5 @@ TEST EVENT FOR LAMBDA FUNCTION
     },
     "body": "{\"PickupLocation\":{\"Latitude\":47.6174755835663,\"Longitude\":-122.28837066650185}}"
 }
+ 
+ AWS has deleted/locked down their S3 bucket where the code lived. At 11:16, use this command instead (copies from my own S3 bucket): aws s3 cp s3://ttt-wildrydes/wildrydes-site ./ --recursive
