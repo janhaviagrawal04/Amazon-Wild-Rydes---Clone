@@ -1,4 +1,4 @@
-# Ride-Sharing App for Unicorns 🦄
+# Ride-Sharing App - AWS Wild Rydes Clone 🦄
 
 ## Project Overview
 
